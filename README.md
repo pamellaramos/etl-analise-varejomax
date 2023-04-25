@@ -2,9 +2,9 @@
 
 Quem é a VarejoMax? 
 
-É uma empresa de varejo referência em produtos de qualidade máxima aos seus clientes. Oferece serviços de varejo físico ou online e uma ampla variedade de produtos, desde cosméticos até roupas e acessórios. Além de um excelente atendimento ao cliente, muitas promoções e descontos exclusivos
+É uma empresa de varejo europeia referência em produtos de qualidade máxima aos seus clientes. Oferece serviços de varejo físico ou online e uma ampla variedade de produtos, desde cosméticos até roupas e acessórios. Além de um excelente atendimento ao cliente, muitas promoções e descontos exclusivos
 
-Levantou-se vários problemas de negócios para que pudessem ser melhorados e assim, conseguir melhorar as vendas. Então, o tomador de decisão solicitou algumas perguntas a serem respondidas. Tais como:
+Levantou-se vários problemas de negócios para que pudessem ser melhorados e assim, conseguir melhorar as vendas. Então, o tomador de decisão solicitou alguns pontos a serem considerados. Tais como:
 
 Especificação para construção dos dashboard
 VENDAS = quantidade de itens multiplicados pelo valor do item.
@@ -13,9 +13,11 @@ VENDAS = quantidade de itens multiplicados pelo valor do item.
 - Quantidade de vendas dos últimos 10 dias através de um gráfico de colunas.
 - Quantidade de vendas e a Quantidade acumulada de vendas dos últimos 30 dias.
 - Uma visão acumulada das vendas do último ano por Canal e País. De forma que seja possível ver a distribuição das vendas um determinado país por canal.
+
+E responder a pergunta:
 - Vale a pena construir outras filiais para melhorar o atendimento aos clientes? 
 
-De forma resumida, neste projeto, foram realizadas as seguintes etapas: extração dos dados no formato CSV, tratamento com a linguagem PySpark e análises utilizando a biblioteca Pandas. Os dados foram armazenados no Cloud Storage, processados pelo BigQuery e, por fim, utilizados para criar os dashboards no Looker Studio.
+Neste projeto, foram realizadas as seguintes etapas: extração dos dados no formato CSV, tratamento com a linguagem PySpark e análises utilizando a biblioteca Pandas. Os dados foram armazenados no Cloud Storage, processados pelo BigQuery e, por fim, utilizados para criar os dashboards no Looker Studio.
 
 
 Dashboard no Looker Studio no Google Cloud Plataform
@@ -24,3 +26,4 @@ Dashboard no Looker Studio no Google Cloud Plataform
 ![Pagina_3](https://user-images.githubusercontent.com/87997775/234149006-dacfba38-e2db-4af3-9982-7a590b29187a.png)
 
 
+Conclusão: mesmo com a maior parte das vendas ocorrem dentro da Europa, o prazo de entrega para as outras regiões, tem em média o mesmo tempo. Deste modo, do ponto de vista de atendimento ao cliente, não comprometeria em nada. 
