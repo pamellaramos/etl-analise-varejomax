@@ -1,4 +1,4 @@
-# Processo de ETL e Análise para a empresa fictícia Varejo Max. 
+# Processo de ETL e Análise para a empresa fictícia VarejoMax. 
 
 Quem é a VarejoMax? 
 
