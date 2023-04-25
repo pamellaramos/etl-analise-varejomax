@@ -17,7 +17,9 @@ VENDAS = quantidade de itens multiplicados pelo valor do item.
 E responder a pergunta:
 - Vale a pena construir outras filiais para melhorar o atendimento aos clientes? 
 
-Neste projeto, foram realizadas as seguintes etapas: extração dos dados no formato CSV, tratamento com a linguagem PySpark e análises utilizando a biblioteca Pandas. Os dados foram armazenados no Cloud Storage, processados pelo BigQuery e, por fim, utilizados para criar os dashboards no Looker Studio.
+Neste projeto, foram realizadas as seguintes etapas: extração dos dados no formato CSV, tratamento com a linguagem PySpark e análises utilizando a biblioteca Pandas. Os dados foram armazenados no Cloud Storage, processados pelo BigQuery e, por fim, utilizados para criar os dashboards no Looker Studio. 
+
+Todo o trabalho foi realizado no Google Cloud Plataform.
 
 
 Dashboard no Looker Studio no Google Cloud Plataform
